@@ -22,7 +22,7 @@ There is currently support for the following device types in Home Assistant:
 
 - cover
 - sensor
-
+- switch
 
 ## Prerequisites
 
